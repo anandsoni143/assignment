@@ -1,0 +1,30 @@
+
+.first{
+background-color: aqua;
+width: 33%;
+height: 33%;
+border:10px solid black;
+display: inline-block;
+box-sizing: border-box;
+}
+.second{
+    background-color: aqua;
+    width: 33%;
+    float: right;
+    position: relative;
+    border:10px solid black;
+    margin-right: 13px;
+    box-sizing: border-box;
+
+
+    }
+.third{
+        background-color: aqua;
+        width: 33%;
+        height: 33%;
+        box-sizing: border-box;
+        float: right;
+       position: relative;
+       box-sizing: border-box;
+        border:10px solid black;
+}
